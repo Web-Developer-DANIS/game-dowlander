@@ -1,0 +1,35 @@
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background: url('../image/w.jpg') no-repeat center center fixed;
+    background-size: cover;
+    /* background: red; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+body p {
+    color: greenyellow;
+    font-size: 34px;
+    text-align: center;
+}
+
+body button {
+    padding: 23px 65px 23px 65px;
+    background: #265fc7;
+    color: cyan;
+    font-size: 21px;
+    margin: 0 auto;
+    display: block;
+    margin-top: 60px;
+}
+
+.fafa {
+    color: brown;
+    font-size: 59px;
+    text-align: center;
+}
